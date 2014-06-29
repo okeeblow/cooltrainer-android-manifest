@@ -1,3 +1,7 @@
+About
+---------------------------------------
+This is the manifest for my personal Android distro for my phone, the Galaxy Note 2. It's probably not something anybody else wants to run but can serve as an example for how to roll your own. It is based on Dirty Unicorns with a small custom vendor overlay and microg.
+
 Get Repo
 ---------------------------------------
 
@@ -6,18 +10,18 @@ Get Repo
     curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
     chmod a+x ~/bin/repo
 
-Syncing the DU Source
+Syncing the Source
 ---------------------------------------
 
-    mkdir ~/du
-    cd ~/du
-    repo init -u https://github.com/DirtyUnicorns-KitKat/manifest.git -b du44
+    mkdir -p ~/android/cooltrainer
+    cd ~/android/cooltrainer
+    repo init -u https://github.com/okeeblow/cooltrainer-android-manifest.git -b du44
     repo sync -f -j 4 | 8 | 16 | 24 | 32
 
 
 Submitting Patches
 ------------------
-We are a open source project that lives because of contributions of the Android community.
+DU is an open source project that lives because of contributions of the Android community.
 
 With that said, patches are always welcome!
 
