@@ -475,9 +475,6 @@
   <project path="packages/wallpapers/Basic" name="packages_wallpapers_Basic" remote="du" revision="du44" />
   <project path="packages/wallpapers/PhaseBeam" name="packages_wallpapers_PhaseBeam" remote="du" revision="du44" />
 
-  <!--vendors-->
-  <project path="vendor/du" name="vendor_du" remote="du" revision="du44" />
-
   <!--cooltrainer-->
   <project path="vendor/cooltrainer" name="android_vendor_cooltrainer" remote="okeeblow" revision="android-4.4" />
   <project path="packages/apps/Email" name="packages_apps_Email_disrespectful" remote="okeeblow" revision="thunderkat" />
