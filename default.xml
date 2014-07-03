@@ -437,7 +437,6 @@
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="du" revision="du44" />
 
   <!--packages-->
-  <project path="packages/apps/Apollo" name="packages_apps_Apollo" remote="du" revision="du44" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="du" revision="du44" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="du" revision="du44" />
   <project path="packages/apps/Calculator" name="packages_apps_Calculator" remote="du" revision="du44" />
@@ -498,6 +497,7 @@
   <project path="kernel/samsung/smdk4412-agni" name="psndna88/AGNI-pureCM" remote="github" revision="pureCM-smdk4412-N710x-CM11" />
 
   <!--extras-->
+  <project path="packages/apps/ApolloMod" name="Splitter/android_packages_apps_apolloMod" remote="github" revision="master" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-11.0" />
   <project path="external/unrar" name="jruesga/android_external_unrar" remote="github" revision="cm-10.1" />
   <project path="external/zip" name="jruesga/android_external_zip" remote="github" revision="cm-10.1" />
