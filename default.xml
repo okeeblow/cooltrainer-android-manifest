@@ -496,6 +496,10 @@
   <project path="device/samsung/t0lteatt" name="android_device_samsung_t0lteatt" remote="du" revision="du44" />
   <project path="kernel/samsung/smdk4412-agni" name="psndna88/AGNI-pureCM" remote="github" revision="pureCM-smdk4412-N710x-CM11" />
 
+  <!--Focal-->
+  <project path="packages/apps/Focal" name="xplodwild/android_packages_apps_Focal" remote="github" revision="master" />
+  <project path="external/Focal" name="xplodwild/android_external_Focal" remote="github" revision="master" />
+
   <!--extras-->
   <project path="packages/apps/ApolloMod" name="Splitter/android_packages_apps_apolloMod" remote="github" revision="master" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-11.0" />
