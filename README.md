@@ -7,10 +7,9 @@ The canonical location for this repository is [cooltrainer.org/source](https://c
 Get Repo
 ---------------------------------------
 
-    mkdir ~/bin
-    PATH=~/bin:$PATH
-    curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
-    chmod a+x ~/bin/repo
+Submitting Patches
+------------------
+DU is an open source project that lives because of contributions of the Android community.
 
 Syncing the Source
 ---------------------------------------
