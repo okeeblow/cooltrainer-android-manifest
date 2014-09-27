@@ -482,7 +482,7 @@
 
   <project path="external/wire" name="android_external_wire" remote="microg" revision="android-release" />
   <project path="external/okio" name="android_external_okio" remote="microg" revision="android-release" />
-  <project path="frameworks/gsf-lib" name="android_frameworks_gfs-lib" remote="microg" revision="master" />
+  <project path="frameworks/gsf-lib" name="android_frameworks_gsf-lib" remote="microg" revision="master" />
   <project path="packages/apps/GmsCore" name="android_packages_apps_GmsCore" remote="microg" revision="master" />
   <project path="packages/apps/FakeStore" name="android_packages_apps_FakeStore" remote="microg" revision="master" />
   <project path="packages/apps/JGoogle" name="JGoogle" remote="microg" revision="master" />
