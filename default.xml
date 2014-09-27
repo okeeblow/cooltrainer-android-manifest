@@ -480,8 +480,12 @@
   <project path="packages/apps/UnifiedNlp" name="android_packages_apps_UnifiedNlp" remote="microg" revision="master" />
   <project path="packages/apps/gsmlp" name="rtreffer/LocalGSMLocationProvider" remote="github" revision="master" />
 
+  <project path="frameworks/gsf-lib" name="android_frameworks_gfs-lib" remote="microg" revision="master" />
   <project path="packages/apps/GmsCore" name="android_packages_apps_GmsCore" remote="microg" revision="master" />
   <project path="packages/apps/FakeStore" name="android_packages_apps_FakeStore" remote="microg" revision="master" />
+  <project path="packages/apps/JGoogle" name="JGoogle" remote="microg" revision="master" />
+  <project path="packages/apps/JGooglePlay" name="JGooglePlay" remote="microg" revision="master" />
+  <project path="packages/apps/GoogleLoginService" name="GoogleLoginService" remote="microg" revision="master" />
 
   <!--Note II-->
   <project path="device/samsung/t0lte" name="android_device_samsung_t0lte" remote="omnirom" revision="android-4.4" />
