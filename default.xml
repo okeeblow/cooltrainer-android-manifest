@@ -490,13 +490,7 @@
   <project path="packages/apps/GoogleLoginService" name="GoogleLoginService" remote="microg" revision="master" />
 
   <!--Note II-->
-  <project path="device/samsung/t0lte" name="android_device_samsung_t0lte" remote="omnirom" revision="android-4.4" />
-  <project path="device/samsung/t0lteatt" name="android_device_samsung_t0lteatt" remote="omnirom" revision="android-4.4" />
-  <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="omnirom" revision="android-4.4" />
-  <project name="android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="omnirom" revision="android-4.4" />
-  <project name="android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" remote="omnirom" revision="android-4.4" />
-  <project name="android_hardware_samsung" path="hardware/samsung" remote="omnirom" revision="android-4.4" />
-  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="du" revision="du44" />
+  <project path="device/samsung/t0lteatt" name="android_device_samsung_t0lteatt" remote="du" revision="du44" />
 
   <!--extras-->
   <project path="packages/apps/ApolloMod" name="Splitter/android_packages_apps_apolloMod" remote="github" revision="master" />
